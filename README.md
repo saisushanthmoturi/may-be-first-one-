@@ -1,3 +1,3 @@
-# netflix basic clone
+# amazon basic clone
 this is my first git repository
 owner - sai sushanth
