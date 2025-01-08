@@ -1,3 +1,3 @@
-# may-be-first-one-
+# netflix basic clone
 this is my first git repository
-owner - sunny
+owner - sai sushanth
